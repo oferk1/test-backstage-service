@@ -3,9 +3,7 @@ kind: Component
 metadata:
   name: replace-me
   links:
-    - url: https://github.com/oferk1/test-backstage-service/blob/main/index.html
-      title: My Dashboard
-      icon: dashboard
+
     - url: https://ynet.co.il
       title: My Dashboard
       icon: dashboard
@@ -24,10 +22,4 @@ spec:
   type: service
   lifecycle: production
   owner: your-team
-links:
-    - url: https://github.com/oferk1/test-backstage-service/blob/main/index.html
-      title: My Dashboard
-      icon: dashboard
-    - url: https://ynet.co.il
-      title: My Dashboard
-      icon: dashboard
+
