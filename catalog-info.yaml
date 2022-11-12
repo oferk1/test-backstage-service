@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: replace-me
   description: Replace me with a real description.
+    3
+    4
+    5
+    6 Replace me with a real descriptio
   tags:
     - go
     - website
