@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: replace-me
   links:
-
-    - url: https://ynet.co.il
+    - url: https://github.com/oferk1/test-backstage-service/blob/main/index.html
       title: My Dashboard
       icon: dashboard
   description: Replace me with a real description. \n
